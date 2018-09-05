@@ -1,3 +1,5 @@
+admin:admin
+pass: admin
 ###################
 What is CodeIgniter
 ###################
