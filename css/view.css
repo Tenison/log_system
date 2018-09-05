@@ -1,0 +1,30 @@
+.results tr[visible='false'],
+.no-result{
+  display:none;
+}
+
+.results tr[visible='true']{
+  display:table-row;
+}
+
+.container .row {
+	padding-top: 15px;
+}
+
+.row .hush{
+	padding-right: 10px;
+	padding-top: 6px;
+}
+
+
+@media(min-width:767px) {
+	.container .row {
+		
+	}
+
+}
+
+.copyright {
+	padding-left: 10px;
+	margin-left: 10px;
+}

@@ -1,0 +1,42 @@
+.image img {
+	width: 70%;
+}
+
+.content-section{
+	padding-top: 30px;
+	text-align: center;
+}
+.panel {
+	margin-left: auto;
+    margin-right: auto;
+	justify-content: center;
+	text-align: center;
+	width: 80%;
+
+}
+
+.login-page{
+
+}
+
+.panel-success > .panel-heading {
+	background-color: #02323C;
+}
+
+.panel-success > .panel-title {
+	background-color: white;
+}
+
+@media(min-width:767px) {
+	.image img {
+		width: 400px;
+	}
+	.panel {
+		margin-left: auto;
+	    margin-right: auto;
+		justify-content: center;
+		text-align: center;
+		width: 500px;
+
+	}
+}

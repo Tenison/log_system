@@ -1,0 +1,21 @@
+.form-con {
+    color: #02323C;
+}
+
+.form-con h3{
+    color: #02323C;
+}
+.form-con p{
+   color: #02323C;     
+}
+.form-con hr{
+    color: #02323C;
+}
+
+.btn-cust {
+    background-color: #02323C;
+    outline: none;
+}
+@media(min-width:767px) {
+
+}
